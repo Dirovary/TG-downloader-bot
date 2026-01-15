@@ -7,6 +7,7 @@
   },
   "dependencies": {
     "telegraf": "^4.16.3",
-    "node-fetch": "^3.3.2"
+    "node-fetch": "^3.3.2",
+    "yt-dlp-exec": "^1.1.0"
   }
 }

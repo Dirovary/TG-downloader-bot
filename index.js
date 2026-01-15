@@ -40,7 +40,7 @@ bot.on("text", async (ctx) => {
 
   } catch (e) {
     console.error(e);
-    await ctx.reply("❌ Ошибка при скачивании");
+    await ctx.reply("Ошибка при скачивании");
   }
 });
 
